@@ -1,0 +1,3 @@
+﻿  Main.cpp
+Z:\DSuski2\C++\UnrealEngine\UnrealEngine\Main.cpp(53,8): warning C4101: "LevelComplete": lokalna zmienna, do której nie istnieje odwołanie
+  UnrealEngine.vcxproj -> Z:\DSuski2\C++\UnrealEngine\Debug\UnrealEngine.exe
